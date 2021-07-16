@@ -1,0 +1,59 @@
+
+body{
+    /* background-color: #c8c5ff; */
+    background-color: #AAD8D3;
+    /* color: #020028; */
+    font-family: 'Montserrat', sans-serif;
+    color:#00ADB5;
+}
+h2{
+    font-size:4.4vw;
+}
+.card{
+    /* margin: 50px !important; */
+    margin-top: 50px;
+    padding: 30px;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+nav{
+    box-shadow: none;
+    background-color: white !important;
+}
+.brand-logo{
+    
+    color:  #393E46 !important;
+}
+.brand-logo small{
+    font-family: 'Caveat', cursive;
+    margin-left: 10px;
+    font-size: 25px;
+}
+#banner{
+    background-color: white !important;
+}
+
+.col{
+    
+    text-align: center;
+    /* padding: 10px !important; */
+}
+
+.btn{
+    /* background-color:#6C63FF; */
+    background-color:#393E46;
+
+   
+}
+
+.btn:hover{
+    background-color:#00ADB5;
+    
+}
+
+.img-book{
+    width: 100%;
+    margin-left: 30px;
+    padding-top: 10px;
+}

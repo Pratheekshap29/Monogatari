@@ -1,0 +1,80 @@
+body{
+    background-color: #AAD8D3;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h5{
+    font-size: 2rem;
+}
+.brand-logo small{
+    font-family: 'Caveat', cursive;
+    margin-left: 10px;
+    font-size: 25px;
+}
+input{
+    color: #EEEEEE;
+}
+.select-wrapper+label{
+    position: inherit;
+}
+p{
+    margin: 10px 0 !important;
+}
+.nav-grey{
+    background-color: #393E46;
+}
+.sidenav{
+    background-color: #393E46;
+}
+.sidenav li>a{
+    color: #EEEEEE;
+}
+
+.title-link{
+    color: #393E46;
+}
+/* .table-block{
+    background-color: #393E46;
+    color: #EEEEEE;
+    margin:30px;
+} */
+/* .table-block{
+    background-color: #393E46;
+} */
+tr{
+    margin-top: 20px !important;
+}
+
+.card{
+    background-color: #393E46;
+    color: #EEEEEE;
+}
+.form-card{
+   margin-top: 50px ;
+}
+.read-more{
+    background-color: #00ADB5;
+
+}
+
+.card .card-action a.more-from{
+    color: #00ADB5 !important;
+}
+.card .card-action a:hover{
+    color: #EEEEEE !important;
+}
+
+.fa-small{
+    font-size: 16px !important;
+}
+
+.btn-float{
+    float:left;
+    margin-right:10px;
+}
+
+.img-small{
+    width:180px;
+}
